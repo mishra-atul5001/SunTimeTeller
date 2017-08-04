@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SunTimeTeller</string>
+    <string name="get_me_detais">Get Me Detais..!!</string>
+    <string name="sunset_tme_is">Sunset Time is:</string>
+    <string name="sunrise_tme_is">Sunrise Time is:</string>
+    <string name="enter_the_city_name">Enter The City Name</string>
+
+
+</resources>
